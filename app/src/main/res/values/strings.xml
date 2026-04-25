@@ -1,0 +1,39 @@
+<resources>
+    <!-- Nombre y branding del restaurante -->
+    <string name="app_name">Cacao &amp; Humo</string>
+    <string name="restaurant_name">Cacao &amp; Humo</string>
+    <string name="restaurant_slogan">Cocina de autor · Tabasco</string>
+    <string name="restaurant_tagline">Una experiencia gastronómica única,\ninspinada en la tierra del cacao.</string>
+
+    <!-- Botones de navegación -->
+    <string name="btn_ver_menu">Ver Menú</string>
+    <string name="btn_regresar">Regresar</string>
+
+    <!-- Pantalla del Menú -->
+    <string name="menu_title">Nuestro Menú</string>
+    <string name="menu_subtitle">Selección del chef</string>
+    <string name="menu_category_principales">Platos Principales</string>
+    <string name="menu_category_bebidas">Bebidas</string>
+
+    <!-- Platillos -->
+    <string name="dish_1_name">Tacos de Camarón</string>
+    <string name="dish_1_desc">Camarón del Grijalva, salsa macha y aguacate</string>
+    <string name="dish_1_price">$85</string>
+
+    <string name="dish_2_name">Caldo de Res</string>
+    <string name="dish_2_desc">Res de rancho, verduras de temporada y epazote</string>
+    <string name="dish_2_price">$70</string>
+
+    <string name="dish_3_name">Pejelagarto a la Brasa</string>
+    <string name="dish_3_desc">Pez emblema de Tabasco, xnipec y tortilla azul</string>
+    <string name="dish_3_price">$120</string>
+
+    <!-- Bebidas -->
+    <string name="dish_4_name">Agua de Horchata</string>
+    <string name="dish_4_desc">Arroz, canela y leche de coco artesanal</string>
+    <string name="dish_4_price">$30</string>
+
+    <!-- Accesibilidad -->
+    <string name="cd_restaurant_logo">Logo del restaurante Cacao &amp; Humo</string>
+    <string name="cd_dish_icon">Ícono del platillo</string>
+</resources>
